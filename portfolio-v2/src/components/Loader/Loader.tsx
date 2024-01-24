@@ -120,13 +120,13 @@ export const InitialLoader = () => {
               className="name animation-delay-500 animate-sliderightT4"
               style={{ fontFamily: "March Evoked" }}
             >
-              Ramanan
+              Suresh
             </h1>
             <h1
               className="name animation-delay-500 animate-sliderightT3"
               style={{ fontFamily: "March Evoked" }}
             >
-              Balamurugan
+              Hariharan
             </h1>
           </motion.div>
         </>
