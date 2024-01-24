@@ -58,7 +58,7 @@ export const InitialLoader = () => {
             </h1>
             <h1
               className="name animation-delay-500 animate-slideleftT4"
-              style={{ fontFamily: "March Evoked" }}
+              style={{ fontFamily: "Helvetica" }}
             >
               Developer
             </h1>
@@ -118,13 +118,13 @@ export const InitialLoader = () => {
           >
             <h1
               className="name animation-delay-500 animate-sliderightT4"
-              style={{ fontFamily: "March Evoked" }}
+              style={{ fontFamily: "Helvetica" }}
             >
               Suresh
             </h1>
             <h1
               className="name animation-delay-500 animate-sliderightT3"
-              style={{ fontFamily: "March Evoked" }}
+              style={{ fontFamily: "Helvetica" }}
             >
               Hariharan
             </h1>
