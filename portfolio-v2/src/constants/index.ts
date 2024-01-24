@@ -48,7 +48,7 @@ const experiences = [
     company_name: "PK Innovatives - Project Intern",
     icon: pk,
     iconBg: "#E6DEDD",
-    date: "JUNE 2023 - Present",
+    date: "JUNE 2023 - AUG 2023",
     points: [
       "Working in an Attendance and Inventory Management project as a Full-stack developer.",
       "Used Angular, NgZorro for Front-end and NodeJs, Express, SQLite for the back-end.",
