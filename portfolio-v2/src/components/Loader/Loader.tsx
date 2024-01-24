@@ -52,15 +52,15 @@ export const InitialLoader = () => {
           >
             <h1
               className="name animation-delay-500 animate-slideleftT3"
-              style={{ fontFamily: "March Evoked" }}
+              style={{ fontFamily: "Helvetica" }}
             >
-              UI/UX
+              Full-Stack
             </h1>
             <h1
               className="name animation-delay-500 animate-slideleftT4"
               style={{ fontFamily: "March Evoked" }}
             >
-              Designer
+              Developer
             </h1>
           </motion.div>
           <motion.div
